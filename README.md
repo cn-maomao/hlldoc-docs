@@ -4,7 +4,7 @@
 
 请不要直接修改这些文件。下一次同步会按站点中的公开版本重新生成。
 
-在线阅读：https://hlldoc.catcat1121.cn:8443
+在线阅读：https://hlldoc.catcat1121.cn
 
 ## 社区共建
 
